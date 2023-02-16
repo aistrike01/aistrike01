@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Software Engineer from Ukraine 🇺🇦</h3>
 
-I am a shared bn development account, and I represent an avatar of an average software engineer of ![bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
+I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
 
 ### My specialty
 
@@ -37,12 +37,25 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
 
-## About bn digital
+name: Waka Readme
 
-BN Digital is a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. We are designers and engineers who make others' lives happier.
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: "0 0 * * *"
 
-Please feel free to reach out to us!
-[https://bndigital.co](https://bndigital.co)
-[Dribbble](https://dribbble.com/bndigital)
-[Behance](https://www.behance.net/bn_digital)
-[Linkedin](https://www.linkedin.com/company/bndigital-llc)
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: ->
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+          LANG_COUNT: 10
