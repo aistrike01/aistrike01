@@ -1,7 +1,7 @@
 <h1>Hi there, I'm <a href="https://aistrike.vercel.app/" target="_blank">Artem</a> 
 <img src="https://raw.githubusercontent.com/aistrike01/aistrike01/main/images/hi.gif" height="32"/>
 </h1>
-<h3>Software Engineer from Ukraine <img src="https://raw.githubusercontent.com/aistrike01/aistrike01/main/images/ua.gif" height="12"/></h3>
+<h3>Software Engineer from Ukraine <img src="https://raw.githubusercontent.com/aistrike01/aistrike01/main/images/ua.png" height="14"/></h3>
 
 I am a shared bn development account, and I represent an avatar of an average software engineer of [bn digital](httpe://bndigital.co). We are a design-driven studio passionate about solving problems. We help startups and smart companies to provide top-notch experiences in the digital world. 
 
