@@ -8,7 +8,7 @@ I am a shared bn development account, and I represent an avatar of an average so
 ### My specialty
 
 I have vast experience in fintech, real estate, and healthcare industries.  
-I enjoy building scalable systems that people love using.
+I enjoy building scalable systems that people love using. 
 
 ### My tech stack and toolset
 
