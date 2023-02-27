@@ -38,7 +38,6 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
 
 ### Metrics
-[![wakatime](https://wakatime.com/badge/user/606b6277-9005-431e-a627-52ca0ca0eadd.svg)](https://wakatime.com/@606b6277-9005-431e-a627-52ca0ca0eadd)
 <p align="center">
     <img src="https://wakatime.com/share/@606b6277-9005-431e-a627-52ca0ca0eadd/eb2f502e-380c-4387-8335-f1ac82320844.svg"></embed>
 </p>
