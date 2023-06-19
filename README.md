@@ -39,5 +39,6 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 
 ### Metrics
 <p align="center">
-    <img src="https://wakatime.com/share/@606b6277-9005-431e-a627-52ca0ca0eadd/eb2f502e-380c-4387-8335-f1ac82320844.svg"></embed>
+   .. image:: https://wakatime.com/share/@AISTRIKE/5c87a90a-1033-4593-b703-05dfde005e87.png
+    :target: https://wakatime.com/
 </p>
