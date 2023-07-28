@@ -36,8 +36,3 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Insomnia-API_Design-informational?style=flat-square&logo=insomnia&logoColor=white&color=2bbc8a)
-
-### Metrics
-<p align="center">
-   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@AISTRIKE/5c87a90a-1033-4593-b703-05dfde005e87.png" /></a>
-</p>
