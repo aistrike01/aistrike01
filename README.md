@@ -20,10 +20,12 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/LESS-Dialect-informational?style=flat-square&logo=less&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vue-Framework-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
 
 #### Back-end
@@ -41,6 +43,7 @@ At bn digital, we believe that the most value is brought by modern yet reliable 
 ![](https://img.shields.io/badge/Github-Repository-informational?style=flat-square&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Github_Actions-CI|CD-informational?style=flat-square&logo=githubactions&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Docker-Containerisation-informational?style=flat-square&logo=docker&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Terraform-IaaC-informational?style=flat-square&logo=terraform&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Kubernetes-Orchestration-informational?style=flat-square&logo=kubernetes&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Vault-Secrets_Storage-informational?style=flat-square&logo=vault&logoColor=white&color=2bbc8a)
