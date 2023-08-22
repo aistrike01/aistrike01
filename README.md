@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <a href="https://aistrike.vercel.app/" target="_blank">Artem</a> 
+<h1>Hi there, I'm Artem 
 <img src="https://raw.githubusercontent.com/aistrike01/aistrike01/main/images/hi.gif" height="32"/>
 </h1>
 <h3>Software Engineer from Ukraine <img src="https://raw.githubusercontent.com/aistrike01/aistrike01/main/images/ua.png" height="14"/></h3>
